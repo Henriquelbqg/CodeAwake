@@ -11,5 +11,7 @@ Fazer com que o usuário consiga acordar ao mesmo tempo que trabalha o cérebro 
 
 ### Competências:
 -Conhecimento básico de arduino
+
 -Lógica de programação
+
 -Mecânica dos sensores
