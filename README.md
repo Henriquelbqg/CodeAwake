@@ -10,6 +10,7 @@ E o único jeito de desativar o despertador é pressionando uma sequência espec
 Fazer com que o usuário consiga acordar ao mesmo tempo que trabalha o cérebro de manhã cedo, ajudando a pessoa a acordar.
 
 ### Competências:
+
 -Conhecimento básico de arduino
 
 -Lógica de programação
